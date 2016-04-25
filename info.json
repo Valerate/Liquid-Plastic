@@ -1,0 +1,9 @@
+{
+  "name": "Liquid Plastic",
+  "version": "1.0.0",
+  "title": "Liquid-Plastic",
+  "author": "Kasandraen",
+  "homepage": "-",
+  "dependencies": ["base"],
+  "description": "Liquid plastic for crafting instead of solid bars"
+}
